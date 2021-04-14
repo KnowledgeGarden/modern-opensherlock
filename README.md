@@ -37,8 +37,6 @@
 
 #### [tqos-asr2-documizer-agent](https://github.com/KnowledgeGarden/modern-opensherlock/wiki/tqos-asr2-documizer-agent)
 
-#### [tqos-asr-document-reader](https://github.com/KnowledgeGarden/modern-opensherlock/wiki/tqos-asr-document-reader)
-
 #### [tqos-asr-spacy-driver](https://github.com/KnowledgeGarden/modern-opensherlock/wiki/tqos-asr-spacy-driver)
 
 
